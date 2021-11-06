@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JungInBaek&show_icons=true&theme=radical)
 
-<a href="" target"_blank"><imag src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=[Java&logoColor=white"/></a>
+<imag src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=[Java&logoColor=white"/>
